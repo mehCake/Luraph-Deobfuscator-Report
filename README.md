@@ -1,0 +1,1 @@
+Report of the results used the command: "python main.py Obfuscated.json  --script-key hqxt2baandfr7pxs2ivjiq --bootstrapper initv4.lua --allow-lua-run --debug-bootstrap --yes" from the repo: https://github.com/mehCake/luraph-deobfuscator-py/tree/main
